@@ -1,6 +1,4 @@
-# Select the desired streamers and get their clips for the last 24 hours without authorization
-this tool displays how the popular channels TWITCHFM, TWITCHKONTORA and other cutters are arranged.
-The entire list is stored in localstorage so be careful with that.
+# Select the desired streamers and get their clips for the last 24 hours without authorization this tool displays how the popular channels TWITCHFM, TWITCHKONTORA and other cutters are arranged. The entire list is stored in localstorage so be careful with that.
 
 ## Project setup
 ```
